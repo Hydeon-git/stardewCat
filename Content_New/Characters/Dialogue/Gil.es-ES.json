@@ -16,7 +16,9 @@
         }
     ],
     "content": {
-        "Snoring": "*Ngh...*",
-        "ComeBackLater": "...Vuelve cuando tengas algo que enseñarme, anda."
+        "Snoring": "*ronc*",
+        "ComeBackLater": "...Torna quan tinguis alguna cosa per ensenyar-me, va."
     }
+
 }
+

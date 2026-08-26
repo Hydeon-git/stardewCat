@@ -16,21 +16,21 @@
         }
     ],
     "content": {
-        "Fri.000": "Esto me encanta. Estoy en el cielo ahora mismo.",
-        "marriage_Mon.002": "Parece que Gus tiene problemas organizándolo todo sin mí.",
-        "winter_11.000": "La mayoría de nosotros vamos al médico para una revisión anual.",
-        "marriage_Fri.001": "Vengo aquí a oler la fruta.",
-        "winter_11.001": "Doctor, preferiría un «remedio natural», si es posible.",
-        "marriage_Mon.001": "Me voy a dar un buen paseo hoy. Noto las piernas como canelones.",
-        "marriage_Fri.000": "Estoy buscando sirenas.",
-        "marriage_Mon.000": "Me gusta visitar mi antigua casa. Está llena de recuerdos.",
-        "marriage_Fri.002": "Los viernes por la noche está muy concurrido, así que echo una mano. Por los viejos tiempos. ¡Es divertido!$h",
-        "winter_15.000": "Creo que este barco es mi favorito... ¡Es único!",
-        "Sandy_Birthday_Greeting": "¡Hola, Sandy! Te he traído este regalo. ¡Espero que te guste!$h",
-        "Sandy_Birthday_Hangout": "¡Me alegro tanto de tener un día libre!$h#$e#Me siento bien.",
-        "Sandy_Birthday_Lake": "Phew... ¡Hace calor!#$e#Parece un buen día para ir a nadar.#$e#Seguro que se está muy fresquito.$h",
-        "Sandy_Birthday_Bones": "¿Puedes creerte este lugar?#$e#Esto es tan misterioso...",
-        "Sandy_Birthday_Camel": "Me encanta estar con animales.#$e#Este mundo está lleno de espíritus y magia",
-        "Sandy_Birthday_Bye": "¡Ha sido divertido!#$b#¡Quiero volver pronto!$h"
+        "Fri.000": "Quin teler més bonic. Sóc al cel ara mateix.",
+        "marriage_Mon.002": "Sembla que en Gus té problemes per organitzar-ho tot sense mi.",
+        "winter_11.000": "La majoria de nosaltres anem al metge per fer-nos una examinació anual.",
+        "marriage_Fri.001": "Vinc aquí per olorar la fruita.",
+        "winter_11.001": "Doctor, m'agradaria el remei casolà si és possible.",
+        "marriage_Mon.001": "Vull fer una bona caminada avui. Sento les cames com si fossin canelons.",
+        "marriage_Fri.000": "A veure si veig alguna sirena.",
+        "marriage_Mon.000": "Està bé visitar la casa antiga. Em porta molts records.",
+        "marriage_Fri.002": "Els divendres hi ha molta feina, he vingut a donar un cop de mà i recordar els vells temps. És divertit!$h",
+        "winter_15.000": "Crec que aquest vaixell és el meu preferit. És molt únic!",
+        "Sandy_Birthday_Greeting": "Hola, Sandy! T'he portat aquest regal. Espero que t'agradi!$h",
+        "Sandy_Birthday_Hangout": "M'alegro tant de tenir un dia lliure!$h#$e#Em sento bé.",
+        "Sandy_Birthday_Lake": "Fiu... Fa calor!#$e#Sembla un bon dia per anar a nedar.#$e#Segur que seria refrescant.$h",
+        "Sandy_Birthday_Bones": "Et pots creure aquest lloc?#$e#És tan misteriós...",
+        "Sandy_Birthday_Camel": "M'encanta estar amb els animals.#$e#Aquest món és ple d'esperits i màgia.",
+        "Sandy_Birthday_Bye": "Ha estat divertit!#$b#Vull tornar aviat!$h"
     }
 }

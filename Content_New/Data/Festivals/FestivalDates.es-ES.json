@@ -16,13 +16,13 @@
         }
     ],
     "content": {
-        "spring13": "Festival del huevo",
-        "spring24": "Danza floral",
+        "spring13": "Festival de l'Ou",
+        "spring24": "Dansa Floral",
         "summer11": "Luau",
-        "summer28": "Danza de las medusas lunares",
-        "fall16": "Feria de Stardew Valley",
-        "fall27": "Víspera de los espíritus",
-        "winter8": "Festival del hielo",
-        "winter25": "Fiesta de la estrella invernal"
+        "summer28": "Dansa de les Meduses Lunars",
+        "fall16": "Fira de Stardew Valley",
+        "fall27": "Vespra dels Esperits",
+        "winter8": "Festival del Gel",
+        "winter25": "Festa de l'Estel d'Hivern"
     }
 }
